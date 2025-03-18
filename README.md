@@ -7,7 +7,7 @@
 
 ## 国内超赞的 Claude AI 中文版镜像站推荐 🌈
 
-想在国内畅快使用 Claude AI 中文版？这里给你推荐一个超棒的镜像站——**AIGC Chat**！✨ 无需翻墙，打开就能用，简单又高效！👇
+想在国内畅快使用 Claude AI 中文版？这里给你推荐一个超棒的镜像站——**AIGC Chat**！✨ 无需翻墙，打开就能用，简单又高效👇
 
 - **网址**：[chat.aigc.bar](https://chat.aigc.bar/list/#/home) 🌐  
 - **支持版本**：Claude 3.7 Sonnet/Opus ⚙️    
